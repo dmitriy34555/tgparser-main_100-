@@ -1,4 +1,4 @@
-🧾TUT.GURU
+🧾AceTv
 ===================================
 Телеграмм спамер, Инвайтинг и Парсер
 ===================================
@@ -8,36 +8,36 @@
 
 # Установка
 * Windows:
-  * Download Python 3.8 [here](https://www.python.org/downloads/release/python-38) 
-  * Launch installer, click 'add python to PATH'
-  * Download **tgparser**
-  * Open Command Line in **tgparser directory**
-  * Run command: ***python setup.py -i**`
-  * Then go to [my.telegram.org] and login in your account
-  * Choose API Development Tools
-  * In Command Line run ***python setup.py -c***
-  * Enter api_id, api_hash and phone number
+  * Скачать Python Python 3.8 [here](https://www.python.org/downloads/release/python-38) 
+  * Запустите установщик, нажмите «добавить python в PATH»
+  * Скачать **tgparser-main_100-**
+  * Откройте командную строку в **директории tgparser-main_100-**
+  * Команда Run: ***python setup.py -i**
+  * Затем перейдите на [my.telegram.org] и войдите в свою учетную запись.
+  * Выберите инструменты разработки API
+  * В командной строке запустить ***python setup.py -c***
+  * Введите api_id, api_hash и номер телефона
   
 * Termux:
   *  pkg update
   *  pkg install python3 python3-pip git -y
   *  git clone https://github.com/dmitriy34555/tgparser-main_100-
-  *  cd tgparser`
+  *  cd tgparser-main_100-
   *  python setup.py -i
-  *  Then go to [my.telegram.org] and login in your account
-  *  Choose API Development Tools
+  *  Затем перейдите на [my.telegram.org] и войдите в свою учетную запись.
+  *  Выберите инструменты разработки API
   *  python setup.py -c
-  *  Enter api_id, api_hash and phone number
+  *  Введите api_id, api_hash и номер телефона
 * Linux
   *  sudo apt update
   *  sudo apt install python3 python3-pip git -y
   *  git clone https://github.com/dmitriy34555/tgparser-main_100-
-  *  cd tgparser
+  *  cd tgparser-main_100-
   *  python3 setup.py -i
-  *  Then go to [my.telegram.org] and login in your account
-  *  Choose API Development Tools`
-  *  In Command Line run ***python3 setup.py -c***
-  *  Enter api_id, api_hash and phone number
+  *  Затем перейдите на [my.telegram.org] и войдите в свою учетную запись.
+  *  Выберите инструменты разработки API
+  *  В командной строке запустить python3 setup.py -c
+  *  Введите api_id, api_hash и номер телефона
 
 # Запуск
 * Pars
