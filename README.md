@@ -10,12 +10,12 @@
 * Windows:
   * Скачать Python Python 3.8 [here](https://www.python.org/downloads/release/python-38) 
   * Запустите установщик, нажмите «добавить python в PATH»
-  * Скачать **tgparser-main_100-**
-  * Откройте командную строку в **директории tgparser-main_100-**
-  * Команда Run: ***python setup.py -i**
+  * Скачать tgparser-main_100-
+  * Откройте командную строку в директории tgparser-main_100-
+  * Команда Run: python setup.py -i
   * Затем перейдите на [my.telegram.org] и войдите в свою учетную запись.
   * Выберите инструменты разработки API
-  * В командной строке запустить ***python setup.py -c***
+  * В командной строке запустить python setup.py -c
   * Введите api_id, api_hash и номер телефона
   
 * Termux:
